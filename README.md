@@ -9,5 +9,5 @@ USAGE: Before running the file ./find_duplicate.py read the comments and change 
        
 Dependencies : Requires python pandas,codecs,sys,os libraries.
 
-For queries email@ : ritesh.sharma29@gmail.com
+
 
